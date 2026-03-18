@@ -6,7 +6,7 @@
   "password": "dtmb",
   "voip": true,
   "isPublic": true,
-  "adminSteamIds": [],
+  "adminSteamIds": [76561198061617811],
   "reloadBannedSteamIds": false,
   "usePuckBannedSteamIds": true,
   "printMetrics": true,
